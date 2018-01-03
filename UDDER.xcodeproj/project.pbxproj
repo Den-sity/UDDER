@@ -14,6 +14,7 @@
 		66ECFC1E1FFD01BE00287449 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66ECFC1C1FFD01BE00287449 /* LaunchScreen.storyboard */; };
 		66ECFC291FFD01BE00287449 /* UDDERTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66ECFC281FFD01BE00287449 /* UDDERTests.swift */; };
 		66ECFC341FFD01BF00287449 /* UDDERUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66ECFC331FFD01BF00287449 /* UDDERUITests.swift */; };
+		66ECFC421FFD03AA00287449 /* milk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 66ECFC411FFD03AA00287449 /* milk.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		66ECFC2F1FFD01BE00287449 /* UDDERUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UDDERUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66ECFC331FFD01BF00287449 /* UDDERUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDDERUITests.swift; sourceTree = "<group>"; };
 		66ECFC351FFD01BF00287449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66ECFC411FFD03AA00287449 /* milk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = milk.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				66ECFC151FFD01BE00287449 /* ViewController.swift */,
 				66ECFC171FFD01BE00287449 /* Main.storyboard */,
 				66ECFC1A1FFD01BE00287449 /* Assets.xcassets */,
+				66ECFC411FFD03AA00287449 /* milk.jpg */,
 				66ECFC1C1FFD01BE00287449 /* LaunchScreen.storyboard */,
 				66ECFC1F1FFD01BE00287449 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 			files = (
 				66ECFC1E1FFD01BE00287449 /* LaunchScreen.storyboard in Resources */,
 				66ECFC1B1FFD01BE00287449 /* Assets.xcassets in Resources */,
+				66ECFC421FFD03AA00287449 /* milk.jpg in Resources */,
 				66ECFC191FFD01BE00287449 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
